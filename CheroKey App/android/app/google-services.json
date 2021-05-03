@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783716576796",
+    "project_id": "cherokey-1e60f",
+    "storage_bucket": "cherokey-1e60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783716576796:android:04d9655412091ae507b9d9",
+        "android_client_info": {
+          "package_name": "com.chero_key"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783716576796-f3sf1o22492lsgdth8mpjk4nkrfbf2l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chero_key",
+            "certificate_hash": "d45d72c18fbf775d263520628745beca810e3c6b"
+          }
+        },
+        {
+          "client_id": "783716576796-om9r3nr79rppeuvmgtqvrlfebrk8oft9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKoUKgOX5CRSwdUjecP3YyE6XlWo8ySX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783716576796-om9r3nr79rppeuvmgtqvrlfebrk8oft9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
