@@ -14,6 +14,7 @@ The project code base will not run properly as is. To get it to run properly do 
    
    a. Follow the steps listed in "Getting Started"
 4. Read more about our project structure here: https://docs.google.com/document/d/1IjD0NA4TzRZ3NhHy7jo_PDQCZL3fCrsZQxOgnse3ctY/edit?usp=sharing
+5. Here is an idea of what the app looks like: https://youtu.be/EYYAUvIQluo
 
 
 last updated: 3 May 2021
